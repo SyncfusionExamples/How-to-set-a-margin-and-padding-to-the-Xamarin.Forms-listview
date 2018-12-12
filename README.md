@@ -2,6 +2,8 @@
 
 This example demonstrates how to set margin and padding to Xamarin.Forms listview.
 
+See [How to set a margin and padding to the Xamarin.Forms listview?](https://www.syncfusion.com/kb/9958/how-to-set-a-margin-and-padding-to-the-xamarin-forms-listview) for more details.
+
 ## Requirements to run the demo
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
